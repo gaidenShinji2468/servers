@@ -1,0 +1,22 @@
+{
+  "name": "testing_server",
+  "version": "1.0.0",
+  "description": "Servidor para pruebas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaidenShinji2468/servers.git"
+  },
+  "author": "gaidenshinji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaidenShinji2468/servers/issues"
+  },
+  "homepage": "https://github.com/gaidenShinji2468/servers#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
